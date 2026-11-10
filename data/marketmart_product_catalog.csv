@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price
+P01,Laptop,Electronics,55000
+P02,Smartphone,Electronics,18999
+P03,Tablet,Electronics,24999
+P04,Headphones,Electronics,1499
+P05,Mouse,Electronics,799
+P06,Keyboard,Electronics,1299
+P07,USB Hub,Electronics,899
+P08,Power Bank,Electronics,1299
+P09,Smart Watch,Electronics,2999
+P10,Bluetooth Speaker,Electronics,1999
+P11,Laptop Stand,Electronics,1799
+P12,Webcam,Electronics,2499
+P13,Phone Case,Accessories,499
+P14,Screen Protector,Accessories,299
+P15,USB Cable,Accessories,399
+P16,Backpack,Fashion,1599
+P17,T-Shirt,Fashion,799
+P18,Jeans,Fashion,1499
+P19,Hoodie,Fashion,1799
+P20,Sneakers,Fashion,2499
+P21,Handbag,Fashion,1999
+P22,Sports Watch,Sports,3299
+P23,Water Bottle,Sports,599
+P24,Yoga Mat,Sports,999
+P25,Running Shoes,Sports,2999
+P26,Table Lamp,Home,899
+P27,Coffee Mug,Home,399
+P28,Storage Box,Home,699
+P29,Bedsheet,Home,1299
+P30,Pillow,Home,799
+P31,Face Wash,Beauty,399
+P32,Shampoo,Beauty,499
+P33,Moisturizer,Beauty,599
+P34,Sunscreen,Beauty,699
+P35,Perfume,Beauty,1299
+P36,Python Programming,Books,699
+P37,Data Science,Books,799
+P38,Machine Learning,Books,899
+P39,Web Development,Books,749
+P40,AI Fundamentals,Books,849
+P41,Camera,Electronics,32999
+P42,Memory Card,Electronics,999
+P43,Camera Bag,Accessories,1799
+P44,External SSD,Electronics,6499
+P45,Power Strip,Home,999
+P46,Desk Organizer,Home,499
+P47,Fitness Band,Sports,1999
+P48,Sports T-Shirt,Sports,899
+P49,Laptop Bag,Accessories,2199
+P50,Wireless Charger,Electronics,1499
